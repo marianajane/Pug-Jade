@@ -1,0 +1,23 @@
+* {
+	background-color: whitesmoke;
+}
+
+.blue {
+	border-style: solid;
+    border-color: #4567A1;
+}
+
+.green {
+	border-style: solid;
+    border-color: green;
+}
+
+.orange {
+	border-style: solid;
+    border-color: orange;
+}
+
+div img {
+	width: 100%;
+	height: auto;
+}
